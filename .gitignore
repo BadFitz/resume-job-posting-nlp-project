@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#unzipped data files
+data/html_job_postings/*.html
